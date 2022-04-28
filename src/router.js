@@ -1,4 +1,4 @@
-import {createRouter} from '@/router';
+import {createRouter, createWebHistory} from '@/router';
 
 //Coaches components
 import CoachDetails from '@/pages/coaches/CoachDetails.vue';
@@ -48,4 +48,5 @@ const router = createRouter({
         }
     ]
 });
+
 export default router;
