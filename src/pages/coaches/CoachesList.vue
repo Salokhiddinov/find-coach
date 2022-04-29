@@ -1,5 +1,5 @@
 <template>
-  <section>FILTER</section>
+  <!-- <section>FILTER</section> -->
   <section>
     <base-card>
       <div class="controls">
